@@ -1,0 +1,8 @@
+For this assignment, I have taken the business problem as folows:
+London and Maldives are very popular tourist attractions for people all around the 
+world. People who prefer to be more classic choose London as their tourist destination
+whereas Maldives can be a more realxing tourist destination. For the business problem,
+the main aim is to help people choose a tourist attraction as their destination based
+on their preferences. Some people may even want to migrate to these destinations based
+on the facilities or comfort of the tourists. Through our solution, stakeholders can 
+make decisions regarding this and can clarify any doubts the tourists may have.
