@@ -1,0 +1,11 @@
+Data Description:
+_________________
+
+We can scrape our data mainly from surfing the internet through reputed websites like
+wikipedia. These webpages can get us the information of the neighbourhood's name, name
+of the town, postal codes etc. But these pages may lack the exact information of the 
+geographical locations. So, to overcome this we can use the ArcGIS API. This will 
+help us to know thw exact location in latitude and longitude. For the foursquare API
+data, the information obtained per venue would contain name of the neighbourhood, 
+latitude, longitude of the neighbourhood, name of the venue, latitude and longitude 
+of venue, and category of the venue.
